@@ -1,0 +1,6 @@
+total 4
+drwxrwxr-x. 3 countsw countsw  55 Feb  8 17:48 .
+drwxrwxr-x. 4 countsw countsw  57 Feb  8 17:37 ..
+-rw-rw-r--. 1 countsw countsw   0 Feb  8 17:48 filelist.txt
+drwxrwxr-x. 8 countsw countsw 163 Feb  8 17:37 .git
+-rw-rw-r--. 1 countsw countsw 107 Feb  8 17:37 README.md
